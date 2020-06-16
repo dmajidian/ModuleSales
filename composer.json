@@ -1,0 +1,25 @@
+{
+    "name": "majidian/module-sales",
+    "description": "Magento 2 Coding Evaluation/Challenge.",
+    "require": {
+        "magento/framework": ">102",
+        "magento/module-sales": "^102.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Majidian",
+            "email": "dmajidian@hotmail.com"
+        }
+    ],
+    "type": "magento2-module",
+    "version": "0.0.1",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Majidian\\ModuleSales\\": ""
+        }
+    }
+}
