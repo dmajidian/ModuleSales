@@ -4,6 +4,7 @@
     <module name="Majidian_ModuleSales">
         <sequence>
             <module name="Magento_Sales"/>
+            <module name="Magento_Ui"/>
         </sequence>
     </module>
 </config>
