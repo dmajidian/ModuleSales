@@ -3,7 +3,8 @@
     "description": "Magento 2 Coding Evaluation/Challenge.",
     "require": {
         "magento/framework": ">102",
-        "magento/module-sales": "^102.0"
+        "magento/module-sales": "^102.0",
+        "magento/module-ui": "^101.1"
     },
     "license": "MIT",
     "authors": [
